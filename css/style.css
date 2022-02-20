@@ -73,7 +73,7 @@ header{
   margin-bottom: 30px;
 }
 .header__right{
-  background: url(/img/fonTel.png) 0 0/contain no-repeat;
+  background: url(../img/fonTel.png) 0 0/contain no-repeat;
   background-position: 50% 50%;
   width: 50%;
 }
@@ -120,7 +120,7 @@ main span{
   margin-bottom: 120px;
 }
 .main-left{
-  background: url(/img/telMain.png) 0 0/contain no-repeat;
+  background: url(../img/telMain.png) 0 0/contain no-repeat;
   background-position: 50% 50%;
   width: 25%;
 }
